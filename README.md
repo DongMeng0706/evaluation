@@ -10,7 +10,6 @@
 
 # 效果图
 
-https://note.youdao.com/ynoteshare1/index.html?id=9cbb766dd957fb39885e3647ebd3af40&type=note
 
 #### 介绍
 学生课程评价系统
